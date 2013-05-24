@@ -1,7 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illallangi.SmtpClient", "Illallangi.SmtpClient\Illallangi.SmtpClient.csproj", "{9F4F72F2-C488-4A6C-B22C-F1D2343614E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illallangi.SmtpClient", "Illallangi.SmtpClient\Illallangi.SmtpClient.csproj", "{2DE9670D-0F32-4DAB-A950-7CD1F950EF7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{5F012E1E-98AA-4B87-8430-30922D154D43}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +16,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9F4F72F2-C488-4A6C-B22C-F1D2343614E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F4F72F2-C488-4A6C-B22C-F1D2343614E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F4F72F2-C488-4A6C-B22C-F1D2343614E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F4F72F2-C488-4A6C-B22C-F1D2343614E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE9670D-0F32-4DAB-A950-7CD1F950EF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE9670D-0F32-4DAB-A950-7CD1F950EF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE9670D-0F32-4DAB-A950-7CD1F950EF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE9670D-0F32-4DAB-A950-7CD1F950EF7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
