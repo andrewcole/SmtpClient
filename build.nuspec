@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Illallangi.SmtpClient</id>
+    <version>$version$</version>
+    <title>Smtp Client</title>
+    <authors>Illallangi Enterprises</authors>
+    <owners>Illallangi Enterprises</owners>
+    <projectUrl>http://illallangi.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library to send email via SMTP</description>
+    <copyright>Copyright 2013</copyright>
+    <tags>SMTP</tags>
+  </metadata>
+</package>
