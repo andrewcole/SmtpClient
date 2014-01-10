@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Illallangi.NullLogger">
-      <HintPath>..\packages\Illallangi.NullLogger.1.0.0-CI00002\lib\net45\Illallangi.NullLogger.dll</HintPath>
+      <HintPath>..\packages\Illallangi.NullLogger.1.0.0.3\lib\Illallangi.NullLogger.dll</HintPath>
     </Reference>
     <Reference Include="Ninject, Version=3.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
